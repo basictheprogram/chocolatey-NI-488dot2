@@ -3,14 +3,14 @@
   <metadata>
     <id>ni-488dot2</id>
     <version>19.0</version>
-    <packageSourceUrl>https://github.com/basictheprogram/chocolatey-NI-488dot2</packageSourceUrl>
-    <owners>Nation Instruments</owners>
+    <packageSourceUrl>https://github.com/basictheprogram/chocolatey-NI-488dot2/tree/v19</packageSourceUrl>
+    <owners>BasicTheProgram</owners>
     <title>NI-488.2</title>
-    <authors>BasicTheProgram</authors>
+    <authors>Nation Instruments</authors>
     <projectUrl>https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/19.0/online/ni-488.2_19.0_online.exe</projectUrl>
     <iconUrl>https://basictheprogram.github.io/chocolatey-NI-488dot2/icons/ni-488.2_19.0.png</iconUrl>
     <copyright>© 2016-2019 National Instruments</copyright>
-    <licenseUrl>https://github.com/basictheprogram/chocolatey-NI-488dot2/tools/LICENSE.txt</licenseUrl>
+    <licenseUrl>https://github.com/basictheprogram/chocolatey-NI-488dot2/blob/v19/tools/LICENSE.txt</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>http://www.ni.com/pdf/manuals/375742g.html</docsUrl>
     <tags>ni-488.2 National Instruments GPIB</tags>
