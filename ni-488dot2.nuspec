@@ -22,8 +22,8 @@
     <releaseNotes>http://www.ni.com/pdf/manuals/375742g.html#EnhancementsBugfixes</releaseNotes>
     <dependencies>
       <dependency id="silverlight" version="5.1" />
-      <dependency id="dotnet4.6.2" />
-      <dependency id="vcredist2015" />
+      <dependency id="dotnet4.6.2" version="4.6" />
+      <dependency id="vcredist2015" version="14.0" />
     </dependencies>
   </metadata>
   <files>
